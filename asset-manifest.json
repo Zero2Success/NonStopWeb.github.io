@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NonStopWeb.github.io/static/css/main.d2ca4f7c.chunk.css",
-    "main.js": "/NonStopWeb.github.io/static/js/main.fa7f6da3.chunk.js",
-    "main.js.map": "/NonStopWeb.github.io/static/js/main.fa7f6da3.chunk.js.map",
+    "main.js": "/NonStopWeb.github.io/static/js/main.fd9c80ea.chunk.js",
+    "main.js.map": "/NonStopWeb.github.io/static/js/main.fd9c80ea.chunk.js.map",
     "runtime-main.js": "/NonStopWeb.github.io/static/js/runtime-main.23a17078.js",
     "runtime-main.js.map": "/NonStopWeb.github.io/static/js/runtime-main.23a17078.js.map",
     "static/js/2.15532a58.chunk.js": "/NonStopWeb.github.io/static/js/2.15532a58.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/NonStopWeb.github.io/index.html",
     "static/css/main.d2ca4f7c.chunk.css.map": "/NonStopWeb.github.io/static/css/main.d2ca4f7c.chunk.css.map",
     "static/js/2.15532a58.chunk.js.LICENSE.txt": "/NonStopWeb.github.io/static/js/2.15532a58.chunk.js.LICENSE.txt",
+    "static/media/Non.b4dbd133.png": "/NonStopWeb.github.io/static/media/Non.b4dbd133.png",
     "static/media/pochi.9d241aba.jpg": "/NonStopWeb.github.io/static/media/pochi.9d241aba.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.23a17078.js",
     "static/js/2.15532a58.chunk.js",
     "static/css/main.d2ca4f7c.chunk.css",
-    "static/js/main.fa7f6da3.chunk.js"
+    "static/js/main.fd9c80ea.chunk.js"
   ]
 }
